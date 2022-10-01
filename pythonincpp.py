@@ -1,4 +1,3 @@
-#cpp
 a=[1,2,3,4]
-b=a
-print(a)
+for (i in a):
+  print(i)
